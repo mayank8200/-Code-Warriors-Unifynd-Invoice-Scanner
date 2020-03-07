@@ -1,4 +1,4 @@
-package com.campcode.maanav.digimate.activity;
+package com.campcode.digimate.activity;
 
 import android.app.ProgressDialog;
 import android.content.Intent;

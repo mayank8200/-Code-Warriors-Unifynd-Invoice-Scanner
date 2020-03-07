@@ -1,4 +1,4 @@
-package com.campcode.maanav.digimate.activity;
+package com.campcode.digimate.activity;
 
 import android.Manifest;
 import android.content.Intent;
